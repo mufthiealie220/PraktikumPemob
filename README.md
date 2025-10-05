@@ -4,13 +4,12 @@
 - Shift Baru: A
 
 # Tugas 1 Pertemuan 2
-![pert2](https://github.com/user-attachments/assets/1d370b6b-d73a-4081-b87b-8fe990167b21)
+![pert2]<img width="720" height="1600" alt="Pertemuan2" src="https://github.com/user-attachments/assets/ea1d8422-2c10-41e3-9f49-2071e35f86ad" />
 
 # Tugas 2 Pertemuan 3
-https://github.com/user-attachments/assets/03481c91-db07-4e97-9a8c-6b22182f2d1c
+![Pertemuan3 (1)](https://github.com/user-attachments/assets/ad864f48-c91a-48de-9f4f-92424ce0c5bc)
+
+https://github.com/user-attachments/assets/e6d66ed6-33ec-49ee-a75f-f391d7187f9e
 
 # Tugas 3 Pertemuan 4
-https://github.com/user-attachments/assets/f5dacd7a-d3e1-4374-90ef-d417350f4e09
-
-# Tugas 4 Pertemuan 5
-https://github.com/user-attachments/assets/76689d9d-3cfe-4b46-93ec-6b4f5a98f16d
+https://github.com/user-attachments/assets/3e99c882-fccb-4358-a5bb-bdb2c6571043 
